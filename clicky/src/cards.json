@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Arizona Diamondbacks",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Arizona_Diamondbacks.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Colorado Rockies",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Colorado_Rockies.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Los Angeles Dodgers",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/LosAngeles_Dodgers.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "San Diego Padres",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/SanDiego_Padres.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "San Francisco Giants",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/SanFrancisco_Giants.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Atlanta Braves",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Atlanta_Braves.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Miami Marlins",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Miami_Marlins.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "New York Mets",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/NewYork_Mets.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Philadelphia Phillies",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Philadelphia_Phillies.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Washington Nationals",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Washington_Nationals.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Chicago Cubs",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Chicago_Cubs.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Cincinnati Reds",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Cincinnati_Reds.png",
+    "count": 0
+  },
+  {
+    "id": 13,
+    "name": "Milwaukee Brewers",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Milwaukee_Brewers.png",
+    "count": 0
+  },
+    {
+    "id": 14,
+    "name": "Pittsburgh Pirates",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/Pittsburgh_Pirates.png",
+    "count": 0
+  },  
+  {
+    "id": 15,
+    "name": "StLouis Cardinals",
+    "image": "http://www.capsinfo.com/images/MLB_Team_Logos/StLouis_Cardinals.png",
+    "count": 0
+  }
+]
